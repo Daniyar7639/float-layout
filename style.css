@@ -47,5 +47,26 @@ section::after {
       height: auto;
     }
   }
+
+  .tsilki {
+    list-style-type: none;
+    background-color: rgb(34, 6, 149);
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
   
+  div ul li {
+    float: left;
+  }
+li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px;
+}
+a:hover {
+    background-color: black;
+}
 
