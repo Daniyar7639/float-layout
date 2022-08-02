@@ -59,8 +59,8 @@ section::after {
   div ul li {
     float: left;
   }
-li a {
-    display: block;
+div li a {
+    display: block; 
     text-align: center;
     text-decoration: none;
     color: aliceblue;
